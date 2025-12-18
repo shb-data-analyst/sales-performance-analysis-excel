@@ -67,11 +67,12 @@ All visuals update automatically based on slicer selection.
 
 ## 📁 Project Structure
 
-The final Excel file is organized as follows: - **Dashboard** --
-Interactive visual summary (client-facing) - **Insights** -- Written
-business conclusions - **Data** -- Raw sales dataset (Excel Table) -
-**Pivot_Region** -- Backend pivot for regional analysis (hidden) -
-**Pivot_Trend** -- Backend pivot for trend analysis (hidden)
+The final Excel file is organized as follows: 
+- **Dashboard** --Interactive visual summary (client-facing)
+- **Insights** -- Written business conclusions
+- **Data** -- Raw sales dataset (Excel Table)
+- **Pivot_Region** -- Backend pivot for regional analysis (hidden)
+- **Pivot_Trend** -- Backend pivot for trend analysis (hidden)
 
 ------------------------------------------------------------------------
 
