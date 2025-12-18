@@ -75,7 +75,9 @@ The final Excel file is organized as follows:
 
 ## Outcome
 
-This project demonstrates the ability to: - Analyze business data using
-Excel - Build interactive dashboards - Translate numbers into actionable
-insights - Deliver client-ready analytical reports
+This project demonstrates the ability to: 
+- Analyze business data using Excel
+- Build interactive dashboards
+- Translate numbers into actionable insights
+- Deliver client-ready analytical reports
 
